@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_5" width="69" height="69" data-name="Group 5" viewBox="0 0 69 69">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <circle id="Ellipse_7" cx="34.5" cy="34.5" r="34.5" class="cls-1" data-name="Ellipse 7"/>
+    <circle id="Ellipse_9" cx="30.5" cy="30.5" r="30.5" fill="#f7c000" data-name="Ellipse 9" transform="translate(4 4)"/>
+    <path id="Polygon_1" d="M6.49 0l6.49 10.931H0z" class="cls-1" data-name="Polygon 1" transform="rotate(90 7.173 35.525)"/>
+</svg>
